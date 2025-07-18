@@ -1,6 +1,5 @@
 # Bangalore House Price Prediction  
-
-![App Screenshot](./website_image.png)  
+ 
 
 ---
 
@@ -10,8 +9,7 @@ This project is a **machine learning-based web application** that predicts house
 
 I have designed the complete system — starting from data preprocessing and model training, followed by backend API development with Flask, frontend development using HTML, CSS, and JavaScript, and finally deploying it on an AWS EC2 instance.  
 
-**Live Website:** [http://ec2-13-49-70-72.eu-north-1.compute.amazonaws.com/](http://ec2-13-49-70-72.eu-north-1.compute.amazonaws.com/)  
-**Localhost URL:** [http://13.49.70.72/](http://13.49.70.72/)  
+**Live Website:** [http://ec2-13-49-70-72.eu-north-1.compute.amazonaws.com/](http://ec2-13-49-70-72.eu-north-1.compute.amazonaws.com/)   
 
 ---
 
